@@ -1,4 +1,6 @@
 # game
+## Demo
+https://akozyreva.github.io/game/
 ## Description
 It's a little game, which I created on pure JS on course
 https://www.udemy.com/the-complete-javascript-course/ 
