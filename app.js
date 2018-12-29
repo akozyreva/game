@@ -37,7 +37,7 @@ var rules = document.querySelector('.wrapper-rules');
 
 rules.addEventListener('click', function(){
 	const curIndex = rules.style.zIndex;
-	if (curIndex == 0) {
+	if (curIndex === 0) {
 		rules.style.zIndex = "2";
 	} else {
 		rules.style.zIndex = "0";
